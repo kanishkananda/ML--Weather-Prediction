@@ -105,3 +105,4 @@ print("R2 Score:", r2_energy)
 
 
 ## Result:
+Thus, the Random Forest Algorithm was implemented successfully to predict daily temperature, PM2.5 pollution level, and energy consumption using environmental sensor data.
